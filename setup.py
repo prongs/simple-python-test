@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import sys
 
-__version__ = "0.0.0"
+__version__ = "0.1.0"
 
 # setup(
 #     name="prophecy-libs",
