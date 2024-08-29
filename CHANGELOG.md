@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.3.1 (2024-08-29)
+
+### Unknown
+
+* blah ([`d5b9c36`](https://github.com/prongs/simple-python-test/commit/d5b9c36df6dcbf08a4e1e469c74df0a2c23a97b3))
+
 ## v0.3.0 (2024-08-29)
 
 ## v0.2.0 (2024-08-28)
