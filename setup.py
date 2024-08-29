@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 import sys
 
-__version__ = "0.3.4"
+__version__ = "0.3.5"
 
 setup(
-    name="prophecy-libs",
+    name="simple-python-test",
     version=__version__,
     url="https://github.com/SimpleDataLabsInc/dummy",
     packages=find_packages(exclude=["test.*", "test"]),
