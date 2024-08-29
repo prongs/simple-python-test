@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import sys
 
-__version__ = "0.3.5"
+__version__ = "0.3.6"
 
 setup(
     name="simple-python-test",
